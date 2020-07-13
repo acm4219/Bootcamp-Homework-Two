@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Homework Two
+This Homework is broken into three componentents
+1. Make a responsive About Me Page
+2. Make a responsive Portfolio Page
+3. Make a responsive Contact Page
 
-You can use the [editor on GitHub](https://github.com/acm4219/Bootcamp-Homework-Two/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/acm4219/Bootcamp-Homework-Two/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I was able to make a similar design to the ones that were provided by the instructors that works responsively between viewport sizes for smartphones, tablets and computer screens through the use of Bootstraps columns and rows. 
+Each page is linked to the other through the navbar at the top of the page so the user can switch between pages on the fly. The About me Page contains some basic info about me and a picture of myself with links to my Github profile and the Github Pages link to the main page of the homework repository.
