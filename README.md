@@ -1,6 +1,7 @@
 ## Welcome to Homework Two
 https://acm4219.github.io/Bootcamp-Homework-Two/homework
-This Homework is broken into three componentents
+
+## This Homework is broken into three componentents
 1. Make a responsive About Me Page
 2. Make a responsive Portfolio Page
 3. Make a responsive Contact Page
