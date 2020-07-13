@@ -1,5 +1,5 @@
 ## Welcome to Homework Two
-[Bootcamp Homework Two Page] (https://acm4219.github.io/Bootcamp-Homework-Two/homework)
+[Bootcamp Homework Two Page](https://acm4219.github.io/Bootcamp-Homework-Two/homework)
 
 ## This Homework is broken into three componentents
 1. Make a responsive About Me Page
